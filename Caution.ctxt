@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Caution
+comment1.params=
+comment1.target=boolean\ checker()
+comment2.params=a\ b
+comment2.target=java.lang.String\ present(int,\ int)
+numComments=3

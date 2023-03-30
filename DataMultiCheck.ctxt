@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DataMultiCheck
+comment1.params=i
+comment1.target=void\ datamulticheckrow(int)
+comment2.params=j
+comment2.target=void\ datamulticheckcolumn(int)
+comment3.params=a\ b
+comment3.target=void\ datamulticheckblock(int,\ int)
+numComments=4
